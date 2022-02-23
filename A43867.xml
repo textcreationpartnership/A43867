@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Most Sacred Majesties and His Most Honourable Privy Councils letters relating to the College of Physicians as likewise, a short account of the institution, use and privileges of that royal foundation.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43867</idno>
+            <idno type="STC">Wing H2088</idno>
+            <idno type="STC">ESTC R7870</idno>
+            <idno type="EEBO-CITATION">12709959</idno>
+            <idno type="OCLC">ocm 12709959</idno>
+            <idno type="VID">66085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 357:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Most Sacred Majesties and His Most Honourable Privy Councils letters relating to the College of Physicians as likewise, a short account of the institution, use and privileges of that royal foundation.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[2], 6, 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By His Majesties special command"</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal College of Physicians of London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66085:1" rendition="simple:additions"/>
+            <p>His Moſt Sacred MAJESTIES, And His Moſt Honourable Privy Councils LETTERS, Relating to the <hi>College of Phyſicians.</hi>
+            </p>
+            <p>As likewiſe, A SHORT ACCOUNT Of the Inſtitution, Uſe and Privileges of that Royal Foundation.</p>
+            <p>By His Majeſties Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:66085:2"/>
+            <pb n="1" facs="tcp:66085:2"/>
+            <opener>
+               <signed>JAMES <hi>R.</hi>
+               </signed>
+            </opener>
+            <p>TRuſty and Well-beloved, We Greet you well. <hi>We</hi> ha<g ref="char:EOLhyphen"/>ving lately Graciouſly given to you, the <hi>Preſident</hi> and <hi>Commonalty</hi> of Our <hi>College of Phyſicians</hi> in <hi>London,</hi> Our Letters Patents, confirming all former Grants of Our Royal Progenitors, together with other Privileges, and more ample Authority, for ſuppreſſing all Illiterate and Illegal Practiſers of the Art of <hi>Phy<g ref="char:EOLhyphen"/>ſick,</hi> in Our City of <hi>London,</hi> and ſeven Miles diſtance; We have thought fit, for the prevention of the great Damages and Inconveniences which our loving Subjects may be expoſed to in their Healths, and otherwiſe, by the <g ref="char:V">Ʋ</g>nskilfulneſs of the ſaid Practiſers, to Will and Require You, the Preſident and Cenſors of Our ſaid College, and your Succeſſors, in Purſuance of Our ſaid Letters Patents, as alſo of the Laws and Statutes of Our Realm, forthwith to do your utmoſt Diligence to Proſecute and Suppreſs all ſuch <g ref="char:V">Ʋ</g>nlearned and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>lawful Practiſers of <hi>Phyſick,</hi> as ſhall preſume to act contrary to Our ſaid Letters Patents, and to the Laws of the Realm in that Caſe provided; <hi>And,</hi> for your Encouragement therein, We do require all our Judges, Juſtices of the Peace, and others whom it may concern,
+<pb n="2" facs="tcp:66085:3"/>to Countenance and Aſſiſt you, the <hi>Preſident</hi> and <hi>Cenſors,</hi> in your Proſecution of ſuch Offenders according to Law: <hi>And,</hi> for the more effectual doing thereof, you are, as occaſion ſhall offer, to demand the Aid and Aſſiſtance of the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> of Our City of <hi>London,</hi> whom by Our Letters We have re<g ref="char:EOLhyphen"/>quired to give you all Countenance and Aſſiſtance in the Execution of this Our Royal Will and Command; Not doubting, but that you will be careful to Suppreſs ſuch Offenders, and Anſwer the Truſt in this Caſe com<g ref="char:EOLhyphen"/>mitted to you: And ſo We bid you farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Windſor,</hi> 
+                  <date>the Third day of <hi>July,</hi> 1687. in the Third Year of Our Reign.</date>
+               </dateline>
+               <signed>By His Majeſties Command, <hi>Sunderland</hi> P.</signed>
+            </closer>
+            <trailer>To our Truſty and Well-beloved, the <hi>Preſident</hi> and <hi>Cenſors</hi> of Our College of <hi>Phyſicians</hi> in <hi>London.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:66085:3"/>
+            <opener>
+               <signed>JAMES <hi>R.</hi>
+               </signed>
+            </opener>
+            <p>TRuſty and Well-beloved, We Greet you well. <hi>Whereas,</hi> in the Reigns of Our Royal Progeni<g ref="char:EOLhyphen"/>tors of famous Memory, ſufficient Proviſion and Power hath been given and granted by ſeveral Charters and Acts of Parliament of Our College of <hi>Phyſicians</hi> in <hi>London,</hi> for the Reforming and Suppreſſing all <g ref="char:V">Ʋ</g>nlaw<g ref="char:EOLhyphen"/>ful and <g ref="char:V">Ʋ</g>nlearned Practiſers of the Art of <hi>Phyſick</hi> in <hi>London,</hi> and within ſeven Miles diſtance thereof; <hi>And,</hi> We having of late in Our Princely Wiſdom, thought fit to confirm and enlarge the ſaid Charters by Our Royal Patent granted to the ſaid College; and, reſolving to ſee the ſaid Charters and Acts of Parliament duly put in Execution, have thought fit by theſe Preſents to charge you, the <hi>Lord Mayor, Aldermen,</hi> and <hi>Juſtices of the Peace,</hi> within Our ſaid City and the Precincts thereof, that with all readineſs you do Aid and Aſſiſt the <hi>Preſident</hi> and <hi>Cenſors</hi> for the Time being, of Our ſaid College, or ſuch Officers as the <hi>Preſident</hi> of the ſaid College ſhall appoint, in the doing of all ſuch things, as by the ſaid Acts of Parliament or Charters ought to be done, for the Suppreſſing of all and every ſuch Perſon or Perſons, as contrary to the ſaid Royal
+<pb n="4" facs="tcp:66085:4"/>Charters and Acts of Parliament ſhall dare to adven<g ref="char:EOLhyphen"/>ture in the Practice of <hi>Phyſick,</hi> upon any of Our Sub<g ref="char:EOLhyphen"/>jects in the City of <hi>London,</hi> or the Suburbs and Precincts of the ſame: <hi>And,</hi> to the Intent, that this Our Purpoſe, tending to the Safety of Our Subjects, and the Suppreſſion of <g ref="char:V">Ʋ</g>nlawful and Ignorant Practicioners, may with more Diligence and Authority be effected, <hi>VVe</hi> do Will and Command you, the <hi>Lord Mayor</hi> of Our City of <hi>London,</hi> that at your next Seſſions, theſe Our Letters may be ſo read and publiſhed, that all Juſtices of the Peace, as well within Our ſaid City, as alſo the Suburbs and Pre<g ref="char:EOLhyphen"/>cincts of the ſame, may take knowlege of this Our Plea<g ref="char:EOLhyphen"/>ſure and Command: And ſo We bid you farewel.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court of</hi> Windſor, <date>
+                     <hi>the Third day of</hi> July, <hi>1687. and in the Third Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>By His Majeſties Command, <hi>Sunderland</hi> P.</signed>
+            </closer>
+            <trailer>To the <hi>Lord Mayor</hi> of Our City of <hi>London.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:66085:4"/>
+            <p>
+               <hi>WHEREAS,</hi> by the Laws and Statutes of the Realm, Power is given to the <hi>Preſident</hi> and Commonalty of the Faculty of <hi>Phyſick</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or to ſuch, as they the ſaid <hi>Preſident</hi> and <hi>College</hi> for the Time being, ſhall according to the Statutes in that behalf made, Authorize to have the Fine, Search, Cor<g ref="char:EOLhyphen"/>rection and Government of all Perſons uſing the Faculty of Phyſick in <hi>London,</hi> and the Suburbs thereof, and ſeven Miles diſtance, and to puniſh all ſuch as ſhall <g ref="char:V">Ʋ</g>nlawfully <g ref="char:V">Ʋ</g>ſe or Practiſe the ſaid Faculty within the ſaid Precincts, contrary to the true Intent and Meaning of the Statute in that Caſe made; with this further Authority, That all Juſtices, Mayors, Sheriffs, Bailiffs, Conſtables, and other Miniſters and Officers within the City of <hi>London</hi> and Precincts aforeſaid, upon Requeſt to them made, ſhould Help, Aid and Aſſiſt the <hi>Preſident</hi> of the ſaid College, and all Perſons by the ſaid Preſident and <hi>Commonalty</hi> from time to time Authorized for the Execution of the Acts and Statutes in that behalf made, upon Pain, for not giving ſuch Aid, Help and Aſſiſtance, to run in Contempt of the King's Majeſty, His Heirs and Succeſſors; <hi>And,</hi> whereas there are ſundry <g ref="char:V">Ʋ</g>unskilful Perſons within the Precincts and Limits aforeſaid, who do uſe and practiſe the ſaid Faculty, con<g ref="char:EOLhyphen"/>trary to the Statutes of this Realm in that Caſe provided,
+<pb n="6" facs="tcp:66085:5"/>and to the great Peril and Danger of the Lives of many of His Majeſties Subjects; <hi>Theſe</hi> are to Will and Require you, and in his Majeſties Name ſtraitly to Charge and Command you, that henceforth at all time and times, you, according to the Tenor of the ſaid Act, be Aiding and Aſſiſting unto the ſaid <hi>Pre<g ref="char:EOLhyphen"/>ſident,</hi> and to thoſe that ſhall be Authorized by the ſaid <hi>Preſident</hi> and <hi>College,</hi> for the Apprehending of all ſuch perſons, as ſhall <g ref="char:V">Ʋ</g>nlawfully <g ref="char:V">Ʋ</g>ſe and Practiſe the ſaid Faculty within the Limits aforeſaid, contrary to the In<g ref="char:EOLhyphen"/>tent and Meaning of the Statutes aforeſaid, when they or any of them ſhall given you Notice of, and require it; and thereupon to bring them before the ſaid <hi>Preſident,</hi> or thoſe Authorized, as aforeſaid, to their <hi>College,</hi> there to be Examined and Proceeded againſt, as to the Law in that Caſe ſhall appertain. <hi>Whereof</hi> fail you not, as you, or every of you, will anſwer the Contempt in that behalft made.</p>
+            <closer>
+               <dateline>Dated at the Court at <hi>Hampton Court,</hi> 
+                  <date>the Sixteenth day of <hi>July,</hi> 1687.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Jefferys C.</item>
+                     <item>Sunderland P.</item>
+                     <item>Arundell C. P. S.</item>
+                     <item>Albemarle</item>
+                     <item>Peterborow</item>
+                     <item>Bath</item>
+                     <item>Middleton</item>
+                     <item>Craven</item>
+                     <item>Dartmouth</item>
+                     <item>Ormond</item>
+                     <item>Powis</item>
+                     <item>Mulgrave</item>
+                     <item>
+                        <hi>Phil. Muſgrave.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>To all Juſtices, Mayors, Sheriffs, Bailifs, Conſtables, Head boroughs, and all other His Majeſties Offi<g ref="char:EOLhyphen"/>cers and Miniſters, to whom this ſhall or may appertain, within the City of <hi>London,</hi> Suburbs and Liberties thereof, and the Limits within mentioned, and to every and either of them.</trailer>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:66085:5"/>
+            <head>A ſhort Account of the Inſtitution and Nature of the College of Phyſicians, <hi>London.</hi>
+            </head>
+            <p>THE College of Phyſicians in <hi>London</hi> (firſt Founded and Conſtituted by the Charter of King <hi>Henry</hi> VIII. in the Tenth Year of his Reign, and afterward confirmed and inlarged in its Privileges and Juriſdictions by ſeveral Acts of Parliament, and Charters granted by Himſelf and Royal Succeſſors,) conſiſts of a Preſident, Fellows, Candidates, Honorary Fellows, and Licentiates.</p>
+            <p n="1">
+               <hi>1.</hi> The FELLOWS</p>
+            <p>Are Doctors of Phyſick, choſen out of the Candidates, who have been always limited to a certain Number, and are now confined to the Number of Fourſcore, by His preſent Majeſties Gracious Charter: Out of theſe are choſen the Preſident, Elects, Cenſors, and other Officers of the College, who, with the reſt of the Fellows, are ſolely concerned in the Governing Part of the College, and have a Voice in the making and reſcinding any Statutes, Orders, or by-Laws, relating to Phyſick and the Practice thereof.</p>
+            <p n="2">
+               <hi>2.</hi> CANDIDATES</p>
+            <p>Muſt be Doctors in Phyſick, admitted to that Degree in one of our Own Univerſities, muſt not be Foreigners, and ought to
+<pb n="2" facs="tcp:66085:6"/>have practiſed Phyſick Four Years before they are admitted into that Order; out of theſe, as the Seminary, the Fellowſhips are filled up, as they become vacant, in a perpetual Succeſſion.</p>
+            <p n="3">
+               <hi>3.</hi> HONORARY FELLOWS</p>
+            <p>Are ſuch Doctors in Phyſick, as by reaſon of their being Fo<g ref="char:EOLhyphen"/>reigners, or having taken their Degrees in ſome Univerſity be<g ref="char:EOLhyphen"/>yond the Seas, are not incorporated into either of Ours; or, for ſome other reaſon (having not been Candidates) are not of the Number of thoſe who have Votes in the Affairs of the College.</p>
+            <p n="4">
+               <hi>4.</hi> LICENTITATES</p>
+            <p>Are ſuch other Perſons Skilled in Phyſick, who by reaſon of their being Foreigners, or their not being admitted Doctors in one of Our Univerſities, or for their not being Eminently Learn<g ref="char:EOLhyphen"/>ed, or by reaſon of their too great Youth, or ſuch like Cauſes, are not capable to be Elected into the Number of the Candidates; yet may, notwithſtanding, be ſerviceable to the Publick in ta<g ref="char:EOLhyphen"/>king Care of the Health of the King's Subjects, at leaſt in ſome particular Diſeaſe.</p>
+            <p>NOW, of all theſe ſeveral Ranks and Degrees of Practiſers in Phyſick, none of them is confined to any certain Number but the Fellows and Candidates; ſo that the Reſt being wholly un<g ref="char:EOLhyphen"/>limited, no Perſon can be excluded out of the College, or de<g ref="char:EOLhyphen"/>barred from Practice, but ſuch as are ſo wholly illiterate and unskilful, that they dare not adventure to ſubmit themſelves to the Examination and Judgment of the Preſident and Cenſors of the College, either as to the Goodneſs of their Medicines, or their own Skill in all, or any Part of Phyſick; though the Preſident and Cenſors be Men ſtrictly ſworn to do juſtice to
+<pb n="3" facs="tcp:66085:6"/>all Perſons, who ſhall preſent themſelves, or their Medicines, to their Scrutiny and Examination.</p>
+            <p>From hence it manifeſtly follows, That the College of Phy<g ref="char:EOLhyphen"/>ſicians is very far from being a Monopoly, ſince it cannot re<g ref="char:EOLhyphen"/>ject any of the King's Subjects who are duly qualified for the Exerciſe of all, or any Part of Phyſick; and therefore, all Preten<g ref="char:EOLhyphen"/>ders to Secret Medicines, or to the Practice of Phyſick, without Licence firſt had from the College, are juſtly proſecuted and puniſhed as Publick Cheats and Impoſtors (conſcious to them<g ref="char:EOLhyphen"/>ſelves of Fraud in their Medicines, and Inſufficiency in their pretended Skill in Phyſick) according to the juſt and wholſome Laws in that Caſe provided; For which purpoſe, and for the Incouragement of Legal and Learned Practicers in Phyſick, the College of Phyſicians is inveſted with ſeveral Powers and Privileges, partly by the expreſs Laws of the Land, and ſeve<g ref="char:EOLhyphen"/>ral Royal Charters; and partly by ſuch Statutes and Orders of the College, as have been made in Purſuance thereof. An Ac<g ref="char:EOLhyphen"/>count of ſome of which are here Printed, for the more Publick Information of all the King's Subjects, ſo that none may here<g ref="char:EOLhyphen"/>after pretend Ignorance in theſe Matters.</p>
+            <p n="1">1. The Cenſors of the College are intruſted with the Go<g ref="char:EOLhyphen"/>vernment, Scrutiny, Correction and Superviſion of all Perſons practiſing Phyſick within the City of <hi>London,</hi> and Seven Miles Compaſs, together with all their Medicines, Bills and Preſcriptions whatſoever; ſo as that they may puniſh Offenders by Fines, Amerciaments, Impriſonments, and other reaſonable Methods.</p>
+            <p n="2">2. No Perſon in the Country (except Graduates in Phyſick in either of Our Univerſities) can have a Licenſe to practiſe Phyſick from the Lord Biſhop of the Dioceſs, till he be firſt ex<g ref="char:EOLhyphen"/>amined approved by the Preſident and Three Elects of
+<pb n="4" facs="tcp:66085:7"/>the College, and receive their Letters Teſtimonial for that Purpoſe.</p>
+            <p n="3">3. All Perſons practiſing Phyſick in the City of <hi>London,</hi> and Seven Miles Compaſs, without Licence firſt had of the College of Phyſicians, after due Examination, whether meer Empiricks and Unlearned Perſons, or any other whatſoever, are to be pro<g ref="char:EOLhyphen"/>ſecuted at Law, and upon Conviction to pay Five Pounds for every Months Practice proved againſt them; and, if they happen to be Apothecaries, may alſo (according to the ancient Practice, and laudable Cuſtom of the College, inforced by a former, as likewiſe by a late Statute) be diſcommun'd; ſo that no Member of that Society ought, upon Notice thereof, to ſuffer any of his Bills or Preſcriptions to be ſent to any ſuch Apothecary.</p>
+            <p n="4">4. Any Perſon practiſing Phyſick Illegally, that is, with<g ref="char:EOLhyphen"/>out Licence firſt had from the College of Phyſicians, if his Patient ſhall happen to dye under his Hands, is indictable at Common Law for the Loſs of one of the King's Subjects.</p>
+            <p n="5">5. Upon Complaint made by any Perſon to the Preſident and Cenſors againſt any Practiſer of Phyſick, within the City of <hi>London,</hi> and Seven Miles Compaſs, whether he be a Li<g ref="char:EOLhyphen"/>cenſed Phyſician or not, for having preſcribed any Unfitting or Unwholſome Medicine to his Patient; the ſaid Preſident and Cenſors have full Power and Authority to receive any ſuch Com<g ref="char:EOLhyphen"/>plaint, to ſummon the Perſon offending to appear before them at their Board; to ſummon, and examine Witneſſes, and to hear and determine the Matter; and, if the Perſon accuſed be found guilty of Ill Practice, they have Power to ſet a Fine upone him to any Summ not exceeding Twenty Pounds, and by the Warrant of the Cenſors to commit him to any Priſon of the City (except the Tower of <hi>London</hi>) till he ſhall have paid the
+<pb n="5" facs="tcp:66085:7"/>aforeſaid Fine, and made due Submiſſion to the College; ſo that all Perſons who are injured in their Bodies and Healths by Unskilful Practiſers, may there have certain and ſpeedy Redreſs.</p>
+            <p n="6">6. By the King's late Gracious Charter, the ſole Power of Licenſing all Books, Papers, <hi>&amp;c.</hi> relating to Phyſick and Chi<g ref="char:EOLhyphen"/>rurgery, and the Practice thereof, is, after the Expiration of the Act of Printing, granted to the Preſident and Cenſors of the College of Phyſicians; And, in the mean Time, is by them exer<g ref="char:EOLhyphen"/>ciſed by Favour of his Grace the Archbiſhop of <hi>Canterbury,</hi> who has been pleaſed to give them his Deputation for that Purpoſe; by which Means, frivolous and uſeleſs Books in Phyſick and Chirurgery, will for the future be in great meaſure Prevented, and the Scandalous Bills of Empiricks and Impoſtors in that Faculty ſtifled and ſuppreſſed.</p>
+            <p n="7">7. Any Phyſician Licenſed by the College, may exerciſe the Science of Phyſick in all and every of its Parts, any Act, Statute or Proviſion made to the contrary notwithſtanding; ſo that he may, as often as he pleaſeth, practiſe Chirurgery and Pharmacy, or the making and compounding Medicines for the Uſe of any of his Patients.</p>
+            <p>THESE are ſome of thoſe Privileges and Powers, which the Royal Wiſdom of our Princes, by their Charters and in their Parliaments, have thought fit to grant unto the College of Phyſicians, for the better Reformation of diverſe Abuſes and Enormities happening to the Common-wealth, by the evil uſing and undue Adminiſtration of Phyſick: And therefore, ſince the College was firſt Founded for that very Purpoſe, and af<g ref="char:EOLhyphen"/>terwards (almoſt in every Princes Reign) ſtrengthned and armed with freſh Powers and Authority to the ſame Intent; ſince all
+<pb n="6" facs="tcp:66085:8"/>the Members of the College have given their Faith, or ſolemn<g ref="char:EOLhyphen"/>ly ſworn that they will do their utmoſt Endeavours to ſup<g ref="char:EOLhyphen"/>preſs all Illiterate and Illegal Practicioners; ſince not only by former Acts of Parliament, and Royal Charters, but alſo by that of His preſent Majeſty, and by his Particular Letters Manda<g ref="char:EOLhyphen"/>tory we are ſtrictly commanded ſo to do: We ſhould be eminently guilty, not only of the greateſt Remiſsneſs, and moſt ſupine Neg<g ref="char:EOLhyphen"/>ligence, but alſo of open Breach of our ſolemn Oaths and Faith, and manifeſt Diſobedience to our Prince, if we ſhould not exert the Authority committed to us, for the vindicating of the Practice of Phyſick out of the Hands of Ignorant Me<g ref="char:EOLhyphen"/>chanicks, and other Illegal Invaders of that Liberal Faculty. And whereas, in all Trades and Corporations of this City, con<g ref="char:EOLhyphen"/>ſtituted for Private Benefit, not for Publick Uſe, and that by Charter only, not by the Statute-Laws of the Land, do with<g ref="char:EOLhyphen"/>out Blame or Envy inform againſt any Intruders, ſo as not to ſuffer any neighbouring Trade to break in upon them, but that by ſevere Mulcts and Fines conſtantly impoſed upon Offenders, they vigorouſly maintain their reſpective Bounds and Limits; I cannot be thought hard and unreaſonable in the College of Phyſicians alone (being conſtituted of men of ge<g ref="char:EOLhyphen"/>nerous and liberal Education, and inſtituted for Publick Benefit, confirmed not only by repeated Charters, but ſeveral Acts of Parliament, out of which no Perſon of ſufficient Capacity and Learning can be excluded) to aſſert its Own Conſtitution and Privileges, by legally puniſhing ſuch Perſons as ſhall boldly invade the Liberties of that Society; eſpecially, when ſo precious a thing as the Healths and Lives of the King's moſt eminent Subjects, reſiding in and about this City, are herein concerned. For the Diſcharge therefore of that Duty incumbent upon them, <hi>viz.</hi> to preſerve the Healthful State of the King's Súbjects, <hi>&amp;c.</hi>) the preſent College have taken all imaginable Care ſo to regulate the Practice of Phyſick, as that no Perſon may be neglected or
+<pb n="7" facs="tcp:66085:8"/>aggrieved: The known Poor and Meaner Families are abun<g ref="char:EOLhyphen"/>dantly and prudently provided for, by a late Order for that Purpoſe. It is well known, that in Families of Middle Rank, the Phyſicians are moderate in their Expectations and Demands; and for thoſe that are Rich and Noble, Liberality is inſeparable from their Quality and Breeding. We are alſo fully reſolved, for the Publick Good, to incourage and protect thoſe two ne<g ref="char:EOLhyphen"/>ceſſary Inſtruments of Phyſick, the Chirurgeons and the Apo<g ref="char:EOLhyphen"/>thecaries (the latter of which owe their Charter and Knowlege of Medicines to the Favour of the College) ſo long as they ſhall contain themſelves withing the Limits of their own Profeſſi<g ref="char:EOLhyphen"/>ons; and, in ſhort, to do all other things neceſſary for the vindi<g ref="char:EOLhyphen"/>cating and perpetuating of the Faculty of Phyſick, that ſo the Young Students in our Univerſities, may not be diſcouraged from applying themſelves to the Study of a Science, ſo uſeful to the Common-wealth; nor that Profeſſion be invaded by the Vulgar, which hath been the uſual Support of the Younger Sons of the Gentry of this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
